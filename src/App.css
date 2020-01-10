@@ -19,6 +19,13 @@ main {
   min-height: 83vh;
 }
 
+.text-black {
+  color: #000000;
+}
+.margin-right {
+  margin-right: 20px;
+}
+
 footer {
   display: flex;
   justify-content: space-between;
